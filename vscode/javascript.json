@@ -1,0 +1,11 @@
+{
+	"Print Header": {
+		"prefix": "head",
+		"body": [
+			"/*",
+			"* @file $1",
+			"* @author Tony Joanes",
+			"*/"
+		]
+	}
+}
