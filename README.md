@@ -1,2 +1,4 @@
-# usefulshiz
-Useful things, code snippets, VSCode settings, scripts ect
+# Useful Shiz
+
+A collection of useful things to help productivity as a software developer
+
